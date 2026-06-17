@@ -1,4 +1,4 @@
-# Sistem Seleksi Penerima Beasiswa — Fuzzy Mamdani
+# Sistem Seleksi Penerima Beasiswa, Fuzzy Mamdani
 
 Aplikasi interaktif untuk menentukan prioritas penerima beasiswa menggunakan Sistem Inferensi Fuzzy metode Mamdani.
 
@@ -17,7 +17,7 @@ cd beasiswa-fuzzy-mamdani
 
 # Jalankan GUI
 python main.py
-
+```
 
 ## Variabel Input & Output
 
