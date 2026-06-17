@@ -1,6 +1,6 @@
 # Sistem Seleksi Penerima Beasiswa — Fuzzy Mamdani
 
-Aplikasi desktop interaktif untuk menentukan prioritas penerima beasiswa menggunakan Sistem Inferensi Fuzzy metode Mamdani dengan defuzzifikasi Centroid.
+Aplikasi interaktif untuk menentukan prioritas penerima beasiswa menggunakan Sistem Inferensi Fuzzy metode Mamdani.
 
 ## Tech Stack
 
