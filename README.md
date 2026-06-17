@@ -12,15 +12,12 @@ Aplikasi interaktif untuk menentukan prioritas penerima beasiswa menggunakan Sis
 
 ```bash
 # Clone repository
-git clone https://github.com/username/beasiswa-fuzzy-mamdani.git
+git clone https://github.com/aucin-codesmith/MinPro-Kecerdasan-Buatan.git
 cd beasiswa-fuzzy-mamdani
 
 # Jalankan GUI
 python main.py
 
-# Jalankan mode demo CLI
-python main.py --cli
-```
 
 ## Variabel Input & Output
 
